@@ -31,31 +31,7 @@ A stylish and interactive personal profile card built using **React** and **Tail
 ┣ index.css
 ┗ main.jsx
 
-yaml
-Copy
-Edit
-
 ---
-
-## 📦 Installation
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/your-username/profile-card.git
-   cd profile-card
-Install dependencies
-
-bash
-Copy
-Edit
-npm install
-Run the development server
-
-bash
-Copy
-Edit
-npm run dev
-
 
 🧑‍🎓 Author
 Akshaj Deepak
