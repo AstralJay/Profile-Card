@@ -9,7 +9,7 @@ A stylish and interactive personal profile card built using **React** and **Tail
 - 👤 Expandable personal information
 - ⚡ Smooth transition animations
 - 📱 Fully responsive layout
-- 🎨 Frosted-glass blur effects and soft shadows
+- 🎨 Frosted-glass blur effects and soft shadows for enhanced visuality
 
 ---
 
