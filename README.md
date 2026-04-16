@@ -1,6 +1,6 @@
 # 🌟 Personal Profile Card
 
-A stylish and interactive personal profile card built using **React** and **Tailwind CSS**. This project showcases a clean UI, expandable info section with smooth transitions, and responsive design — perfect for resumes, portfolios, or personal branding.
+A stylish and interactive personal profile card built using **React** and **Tailwind CSS**. This project showcases a clean UI, expandable info section with smooth transitions, and responsive design — perfect for resumes, portfolios, or personal branding. 
 ---
 
 ## 🚀 Features
